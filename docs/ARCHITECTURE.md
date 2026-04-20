@@ -26,4 +26,3 @@ This document outlines the end-to-end flow of the trading agent at a conceptual 
 - Reconciliation: Regularly remove stale active trades when no position and no orders exist; log reconcile events.
 - Logging: Requests/responses and diary entries recorded locally for traceability.
 
-
